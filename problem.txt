@@ -1,0 +1,17 @@
+class Logic134
+{
+
+	 void demo()
+	{
+	int a=10;
+	System.out.println(a);
+	}
+	public static void main(String[] args) 
+	{
+		Logic134 l1=new Logic134().demo();
+
+		l1.demo();
+				
+System.out.println("l1.demo");
+	}
+}
